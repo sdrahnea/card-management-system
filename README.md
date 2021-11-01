@@ -4,7 +4,7 @@ A system which manage card's information and related functions such as activatio
 # Functionalities related to card
 ## 1. Create
 ## 2. Lock / unlock
-## 3. 
+## 3. Link to account holder
 
 # Card model
 ## 1. EMV Chip
