@@ -1,4 +1,4 @@
-# Card Management System
+# Card Management System (DEVELOPMENT PHASE)
 A system which manage card's information and related functions such as activation, blacking, name changing, etc
 
 # Functionalities related to card
