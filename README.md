@@ -6,6 +6,7 @@ A system which manage card's information and related functions such as activatio
 ## 2. Lock / unlock
 ## 3. Link the card to an account holder
 ## 4. Block the card
+## 5. Pin create / reset / confirm
 
 # Card model
 ## 1. EMV Chip
