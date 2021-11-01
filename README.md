@@ -2,9 +2,10 @@
 A system which manage card's information and related functions such as activation, blacking, name changing, etc
 
 # Functionalities related to card
-## 1. Create
+## 1. Issue a card
 ## 2. Lock / unlock
-## 3. Link to account holder
+## 3. Link the card to an account holder
+## 4. Block the card
 
 # Card model
 ## 1. EMV Chip
